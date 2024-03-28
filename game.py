@@ -1,0 +1,3 @@
+x = "yogurt"
+
+print(x)
